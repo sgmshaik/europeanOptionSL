@@ -1,2 +1,2 @@
 # europeanOptionSL
-European Option Pricer using semi Lagrangian 
+European Option Pricer for testing Semi Lagrangian discritisation
